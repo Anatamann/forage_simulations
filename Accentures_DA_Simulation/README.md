@@ -1,9 +1,4 @@
-
-# Forage Data Analytics Simulations
-This repository contains all the **Simulation** projects that are being carried out on *[Forage platform](https://www.theforage.com/).*
-
-*(Forage provides free virtual work experience programs from Top Companies like JP Moragn, BCG, Accenture, pwc, Quantium, TATA,etc.)*
-## 1. DA and Visualization by Accenture
+# 1. DA and Visualization by Accenture
 *Summary* : An ad-hoc analysis of Social Buzz which is a fast growing social media platform. The clients have a specific request to find the **top 5 category of the platform** along with two other requests related to Data practice and business opportunity.
 
 ### Resources 
