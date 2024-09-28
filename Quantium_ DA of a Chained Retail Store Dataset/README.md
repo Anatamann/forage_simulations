@@ -24,7 +24,7 @@ QVI_purchase_behavior comprises the customer details of the store.<br>
 QVI_data comprises the merged data of QVI_transaction_data & QVI_purchase_behavior. 
 
 ### Analysis Steps
-*The complete analysis was carried out using Python's Pandas dataframe library in ipyNotebook environment*
+*The complete analysis was carried out using Python's Pandas dataframe library on JupitorNotebook environment*
 
 1. Data Cleaning
 2. Data Modeling
