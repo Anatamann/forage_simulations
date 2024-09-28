@@ -40,5 +40,4 @@ One dataset files in xlsx format
  Company can shift their focus on the value products or more spending per quantity customers to ease the dependency to volume sales<br>
  Introduction of Customer loyalty programs to enhance the company-customer relationships.*
 
- #### Sales Regions by Demand of the products
  <img src="ScreenShots/q4 plot.JPG">
