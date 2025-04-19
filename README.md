@@ -1,5 +1,5 @@
 # Forage Data Analytics Simulations
-This repository contains all the **Simulation** projects that are being carried out on *[Forage platform](https://www.theforage.com/).*
+This repository contains all the **Data Analytics** projects that are being carried out on *[Forage platform](https://www.theforage.com/).*
 
 *(Forage provides free virtual work experience programs from Top Companies like JP Moragn, BCG, Accenture, pwc, Quantium, TATA,etc.)*
 
